@@ -6,12 +6,11 @@ This is a regression problem because we're aiming to predict a continuous numeri
 Predicting song popularity is important in the current digital music industry because it provides valuable insights for music professionals and can give them a competitive advantage. By estimating the success of a song before its release, industry professionals can make informed decisions about marketing strategies, resource allocation, and artist promotion. Additionally, predicting song popularity can help in identifying the characteristics and factors that contribute to a song's success, such as intrinsic lyrical and acoustic characteristics, extrinsic factors like publisher influence and support, and the social components of the spreading of song popularity. Understanding these factors can aid in the creation of more popular and commercially successful songs. (scispace, 2024)
 # Meta Data:
 1: song_name
-This feature is the object type, and defines the name of the song.
+This feature is the object type, and defines the name of the song.<br />
 2: song_popularity
-This is a number type feature on top of that it is the target feature of the project
-which defines the popularity of a song on a scale of 0-100.
+This is a number type feature on top of that it is the target feature of the project which defines the popularity of a song on a scale of 0-100.<br />
 3: Song_duration_ms
-It is a number and defines the duration of the song in milliseconds.
+It is a number and defines the duration of the song in milliseconds.<br />
 4: acousticness
 It is a number, confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.
 5: danceability
