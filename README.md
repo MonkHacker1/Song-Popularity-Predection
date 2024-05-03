@@ -62,4 +62,5 @@ It is a number type feature and in musical terminology, tempo is the speed or pa
 It is a number type feature and the time signature (meter) is a notational convention to specify how many beats are in each bar (or measure). The time signature ranges from 3 to 7 indicating time signatures of "3/4", to "7/4".
 
 **15: audio_valence**
+It is a number type feature and it is A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive.
 
